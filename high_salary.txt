@@ -1,4 +1,0 @@
-ID             Name           Salary
-f2025-0905     shafqat        85000
-f2025-0906     hayat          55000
-
